@@ -1,4 +1,4 @@
-# Creditex-VTX-200-B
+# Creditex VTX-200-B
 Preserving the firmware of a Spanish Creditext from the 1990s
 
 
